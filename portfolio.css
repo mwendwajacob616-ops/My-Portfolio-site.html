@@ -1,9 +1,9 @@
 img{
-    float:left;
+    float: none;
     margin-right: 40px;
     margin-bottom: 20px;
     border-radius: 5px;
-
+    box-shadow: 3px 3px 4px rgb(106, 6, 6);
 }
 a:link{
   background-color:rgb(166, 235, 131);
