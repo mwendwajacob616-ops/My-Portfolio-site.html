@@ -27,6 +27,7 @@ a:link{
   border-width: 2px;
   border-radius: 5px;
   box-shadow: 3px 3px 4px red;
+  text-color: black;
 }
 a:hover{
     color:rgb(8, 152, 15);
@@ -51,12 +52,12 @@ nav a{
     color: black;
     font-style: italic;
     font-weight: bold;
-    background-color:rgb(166, 235, 131);
+    background-color:rgb(131, 160, 235);
     border-style: groove;
     border-color: black;
     border-width: 0px;
     border-radius: 5px;
-    box-shadow: 3px 3px 4px red;
+    box-shadow: 3px 3px 4px rgb(179, 82, 82);
     animation: myScale;
     animation-duration: 2s;
 }
