@@ -22,24 +22,29 @@ img{
     to{transform: rotate(360deg);}
 }
 a:link{
-  background-color:rgb(166, 235, 131);
+    margin-top: 15px;
+    margin-bottom: 15px;
+    color: black;
+    text-decoration: none;
+  background-color:rgb(186, 183, 209);
   border-style: solid;
   border-width: 2px;
   border-radius: 5px;
-  box-shadow: 3px 3px 4px red;
-  text-color: black;
+  box-shadow: 3px 3px 4px rgb(33, 24, 101);
 }
 a:hover{
     color:rgb(8, 152, 15);
 }
 button{
+    padding: 10px;
     font-style: italic;
     font-weight: bold;
-    background-color: azure;
-    border-radius: 5px;
+    background-color: rgb(180, 216, 216);
+    border-radius: 4px;
     border-color: black;
     border-width: 0px;
-    box-shadow: 2px 2px 4px rgb(5, 0, 24);
+    text-shadow: 1px 1px 3px black;
+    box-shadow: 3px 3px 6px rgb(5, 0, 24);
 }
 button:hover{
     color:aqua;
@@ -86,7 +91,11 @@ h2{
 }
 h3{
     color:blue;
-    text-shadow: 2px 2px 4px rgb(53, 18
+    text-shadow: 2px 2px 4px rgb(53, 18)
+  }
+ul{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    padding: 10px;
 }
-
 
