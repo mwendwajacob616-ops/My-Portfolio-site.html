@@ -16,6 +16,8 @@ h3{
   font-style: italic;
   text-shadow: 2px 2px 5px rgb(53, 18, 232);
   box-shadow: 4px 4px 5px blue;
+  border-top-style: groove;
+  border-color: black;
 }
 body{
     background-image: -webkit-image-set();
@@ -133,20 +135,38 @@ button{
 
  li:nth-child(1){
    background-color: rgb(122, 187, 183);
+   border-radius: 10px;
+   border-color: black;
+   border-style: groove;
  }
  li:nth-child(2){
    background-color: aqua;
+   border-radius: 10px;
+   border-color: black;
+   border-style: groove;
  }
  li:nth-child(3){
    background-color: rgb(165, 185, 219);
+   border-radius: 10px;
+   border-color: black;
+   border-style: groove;
  }
  li:nth-child(4){
    background-color: rgb(47, 255, 0);
+   border-radius: 10px;
+   border-color: black;
+   border-style: groove;
  }
  li:nth-child(5){
    background-color: rgb(185, 144, 175);
+   border-radius: 10px;
+   border-color: black;
+   border-style: groove;
  }
  li:nth-child(6){
-background-color: rgb(95, 113, 164)
+background-color: rgb(95, 113, 164);
+border-radius: 10px;
+   border-color: black;
+   border-style: groove;
  }
 
