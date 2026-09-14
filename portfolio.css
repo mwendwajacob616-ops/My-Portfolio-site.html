@@ -57,7 +57,7 @@ button:active{
 }
 nav ul:li{
     background-color: rgb(13, 9, 45);
-    padding: 20px;
+    padding: 20px 50;
     font-style: italic;
     font-weight: bold;
     border-style: groove;
@@ -68,9 +68,18 @@ nav ul:li{
     animation: myScale;
     animation-duration: 4s;
 }
-nav ul:li:a{
-    color: black;
-    text-decoration: none;
+nav ul:li:hover{
+    background-color: rgb(13, 9, 45);
+    padding: 20px 50;
+    font-style: italic;
+    font-weight: bold;
+    border-style: groove;
+    border-color: black;
+    border-width: 0px;
+    border-radius: 5px;
+    box-shadow: 1px 1px 2px rgb(179, 82, 82);
+    animation: myScale;
+    animation-duration: 4s;
 }
 iframe{
     border-color: rgb(89, 29, 29);
